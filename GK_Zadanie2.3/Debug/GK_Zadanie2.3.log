@@ -1,0 +1,4 @@
+﻿  GK_Zadanie2.3.cpp
+d:\programowanie\gk_zadanie2\gk_zadanie2.3\gk_zadanie2.3.cpp(130): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+d:\programowanie\gk_zadanie2\gk_zadanie2.3\gk_zadanie2.3.cpp(131): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  GK_Zadanie2.3.vcxproj -> D:\Programowanie\GK_Zadanie2\Debug\GK_Zadanie2.3.exe
